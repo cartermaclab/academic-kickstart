@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael J. Carter
+title: Michael J. Carter
 
 # Username (this should match the folder name)
 authors:
