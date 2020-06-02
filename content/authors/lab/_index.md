@@ -4,10 +4,10 @@ name: Michael J. Carter
 
 # Username (this should match the folder name)
 authors:
-- admin
+- lab
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor
@@ -18,28 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
-interests:
-- Sensorimotor learning
-- Decision-making
-- Motor interactions
-- Metascience
-
-education:
-  courses:
-  - course: PDF in Neuroscience
-    institution: Centre for Neuroscience Studies at Queen's University
-    year: 2017
-  - course: Ph.D in Human Kinetics
-    institution: University of Ottawa
-    year: 2016
-  - course: M.Sc. in Kinesiology
-    institution: Brock University
-    year: 2011
-  - course: Bachelor of Physical Education (Honours)
-    institution: Brock University
-    year: 2008
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -78,8 +57,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Principal Investigator
+#user_groups:
 ---
 
-BIO
+My students and I study how humans plan, control, and learn skilled actions. Our lab is particularly interested in how errors influence decision-making and strategy use to shape learning. We are also interested in looking at the field of kinesiology through a metascience lens. We are committed to open sciences practices in an effort to promote reproducibility and replicability. 
+
+Our work will advance fundamental knowledge in the area of motor neuroscience and will yield evidence-based recommendations for training protocols in rehabilitation, sport, and vocational settings.
+
+The lab is located in the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/) (Ivor Wynne Centre) within the [Faculty of Science](https://www.science.mcmaster.ca/) at [McMaster University](https://www.mcmaster.ca/).
