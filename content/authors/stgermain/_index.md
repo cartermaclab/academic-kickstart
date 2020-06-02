@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Mike Carter
+title: Laura St. Germain
 
 # Username (this should match the folder name)
 authors:
-- admin
+- stgermain
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,28 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-- Sensorimotor learning
-- Decision-making
+- Self-controlled practice conditions
+- Observational learning
 - Motor interactions
-- Metascience
+- Open Science
 
 education:
   courses:
-  - course: PDF in Neuroscience
-    institution: Centre for Neuroscience Studies at Queen's University
-    year: 2017
-  - course: Ph.D in Human Kinetics
+  - course: MSc in Human Kinetics
+    institution: University of Ottawa
+    year: 2018
+  - course: BSc in Human Kinetics
     institution: University of Ottawa
     year: 2016
-  - course: M.Sc. in Kinesiology
-    institution: Brock University
-    year: 2011
-  - course: Bachelor of Physical Education (Honours)
-    institution: Brock University
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,25 +42,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:michaelcarter@mcmaster.ca'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=9FY5gBwAAAAJ&hl=en
+  link: 'mailto:stgerml@mcmaster.ca'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/cartermaclab
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/cartermaclab
-- icon: github
-  icon_pack: fab
-  link: https://github.com/cartermaclab
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/cartermaclab
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-0675-4271
+  link: https://twitter.com/_LauraStGermain
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,7 +59,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Graduate Students
+#weight: 1
 ---
 
-BIO
+ASK FOR BIO OR WRITE YOURSELF.
