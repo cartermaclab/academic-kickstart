@@ -31,7 +31,7 @@ education:
   - course: MSc in Human Kinetics
     institution: University of Ottawa
     year: 2018
-  - course: BSc in Human Kinetics
+  - course: BSc in Human Kinetics (Honours)
     institution: University of Ottawa
     year: 2016
 
@@ -63,4 +63,6 @@ user_groups:
 #weight: 1
 ---
 
-ASK FOR BIO OR WRITE YOURSELF.
+Laura joined the lab in September 2018 after completing her undergraduate and MSc at the University of Ottawa. Her MSc work was conducted with Dr. Diane Ste-Marie and examined self-controlled observational learning. Her PhD work focuses on motor interactions during learning and her work is currently funded by an NSERC PGS-D scholarship. 
+
+Fun fact: Laura is also the proud owner of the least cute dog in the lab.

@@ -82,4 +82,4 @@ user_groups:
 - Principal Investigator
 ---
 
-BIO
+Mike completed his undergraduate and MSc degrees in the Department of Physical Education and Kinesiology (now the Department of Kinesiology) at Brock University. His MSc supervisor was Dr. Jae Patterson and his thesis focused on self-controlled feedback schedules in younger and older adults. In 2011, he began his PhD at the University of Ottawa with Dr. Diane Ste-Marie. His dissertation investigated the cognitive processes underlying self-controlled learning advantages. He also worked closely with Dr. Tony Carlsen during his PhD on projects related to motor preparation and bimanual coordination. Following this, he began a postdoctoral fellowship in the Centre for Neuroscience Studies at Queen's University. Here, he worked with Drs. Randy Flanagan and Jason Gallivan on projects related to decision-making for action. He joined the Department of Kinesiology at McMaster University in July 2017.

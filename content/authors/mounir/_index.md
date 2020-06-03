@@ -21,13 +21,13 @@ organizations:
 bio:
 
 interests:
-- Interest1
-- Interest2
-- Interest3
+- Motor preparation
+- Social-cognitive influences on motor behaviour
+- Attention
 
 education:
   courses:
-  - course: BSc Kinesiology
+  - course: BSc Kinesiology (Honours)
     institution: McMaster University
     year: 2019
 
@@ -63,4 +63,6 @@ user_groups:
 #weight: 1 # Order that people will appear
 ---
 
-ASK FOR BIO OR WRITE YOURSELF.
+Mirette joined the lab in 2019 after completing her undergraduate studies at McMaster University. During her undergraduate studies, she completed her 4th-year thesis with Dr. Stuart Phillips. Her MSc work focuses on physiological and social-cognitive explanations for the Gunslinger Effect. She is currently funded by an Ontario Graduate Scholarship.
+
+Fun fact: She has been known to confuse spiders with bees.

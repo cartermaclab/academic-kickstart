@@ -21,13 +21,13 @@ organizations:
 bio:
 
 interests:
-- Interest1
-- Interest2
-- Interest3
+- Implicit and explicit processes in adaptation
+- Coaching
+- Leg press
 
 education:
   courses:
-  - course: BSc in Life Sciences
+  - course: BSc in Life Sciences (Honours)
     institution: McMaster University
     year: 2019
 
@@ -63,4 +63,6 @@ user_groups:
 #weight: 2 # Order that people will appear
 ---
 
-ASK FOR BIO OR WRITE YOURSELF.
+Raj joined the lab in 2019 after completing his undergraduate degree at McMaster University. During his undergraduate studies, he completed his 4th-year thesis with Dr. Stuart Phillips. His MSc work uses EEG to investigate the processes contributing to sensorimotor adaptation. He is currently funded by an NSERC CGS-M scholarship. 
+
+Fun fact: Raj also volunteers his time by coaching a youth hockey team. Some say his coaching style mirrors that of John Tortorella.
